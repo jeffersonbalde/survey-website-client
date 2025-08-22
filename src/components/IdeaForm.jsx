@@ -118,9 +118,9 @@ export default function IdeaForm({ onAdd }) {
         Share Your Ideas & Solutions
       </h2>
       <p className="text-md text-gray-400 mb-6">
-        What challenges are you facing that technology could help solve? Whether
-        it’s a website, app, automation tool, or AI-driven solution — share your
-        idea with us!
+        What challenges are you facing that could be solved with technology?
+        Whether it’s a website, mobile app, automation tool, or even using AI to
+        make things easier, we’d love to hear your thoughts.
       </p>
 
       <div className="grid gap-6">
