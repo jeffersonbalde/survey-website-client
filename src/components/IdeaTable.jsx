@@ -45,7 +45,7 @@ export default function IdeaTable({ ideas, loading }) {
               ) : ideas.length === 0 ? (
                 <tr className="border-t border-gray-800">
                   <td colSpan="4" className="text-center py-6 text-gray-400 italic">
-                    No ideas submitted yet. Be the first to share your solution 
+                    No ideas submitted yet. Be the first to share your solution
                   </td>
                 </tr>
               ) : (
